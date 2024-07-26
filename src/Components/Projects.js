@@ -31,7 +31,7 @@ function Projects() {
                     <img src={playstation} class="card-img-top" alt="Project 3"></img>
                     <h3 class="card-title">PlayStation</h3>
                     <p class="card-text">At PlayStation Clone, we have meticulously crafted a website that mirrors the aesthetics and functionalities of the original PlayStation interface, while embracing modern design principles.</p>
-                    <div className='button'><a href="https://github.com/PapaDevil5/PlayStation-Clone" target="_blank" className="btn btn-danger">See Project</a></div>
+                    <div className='button'><a href="https://play-station-clone.vercel.app/" target="_blank" className="btn btn-danger">See Project</a></div>
                 </div>
                 <div class="card">
                     <img src={vidglimpse} class="card-img-top" alt="Project 1"></img>
